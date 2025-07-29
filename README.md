@@ -28,7 +28,7 @@ A simple network analyzer that scans nearby networks and collects information su
 To run the network analyzer, execute the following command in your terminal:
 
 ```
-python src/analyzer.py
+python src/main.py
 ```
 
 ## Example
